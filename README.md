@@ -1,3 +1,5 @@
+# disappointed with this project(bugs, simulated implementation not real one, hard to debug) give it up. 2019.04.17
+
 # xnor enhanced neural nets // Hasso Plattner Institute
 
 A fork of the deep learning framework [mxnet](http://mxnet.io) to study and implement quantization and binarization in neural networks.
