@@ -1,4 +1,4 @@
-# disappointed with this project(bugs, simulated implementation not real one, hard to debug) give it up. 2019.04.17
+# Disappointed with this project(bugs, simulated implementation not real one, hard to debug) give it up. 2019.04.17
 
 # xnor enhanced neural nets // Hasso Plattner Institute
 
